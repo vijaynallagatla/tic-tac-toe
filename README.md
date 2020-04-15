@@ -1,3 +1,3 @@
 # tic-tac-toe
 Tic Tac Toe Basic Game design 
-<a href="//jsfiddle.net/vijay005676/t8s4g1fa/embed/">Demo</a>
+<a href="https://jsfiddle.net/vijay005676/0vjk4pqm/1/embedded">Demo</a>
